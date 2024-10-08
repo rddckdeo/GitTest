@@ -31,6 +31,6 @@
 	</div>
 	
 	<a href="/">back home</a>
-	<p>hello</p>
+	<p>hello2</p>
 </body>
 </html>
