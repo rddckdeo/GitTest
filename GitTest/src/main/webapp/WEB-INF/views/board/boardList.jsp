@@ -1,20 +1,15 @@
 <%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c" %>
 <%@ page contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
 <%@ page session="false" %>
+<!DOCTYPE html>
 <html>
 <head>
-	<title>Home</title>
-	<%@ include file="/WEB-INF/views/common/head.jsp" %>
-	
+<meta charset="UTF-8">
+<title>Insert title here</title>
+<%@ include file="/WEB-INF/views/common/head.jsp" %>
+
 </head>
 <body>
-
-	<div>
-		<div>
-			hello
-			<a href="/board.do">board</a>
-		</div>
-	</div>
-
+	<div>hello board</div>
 </body>
 </html>
