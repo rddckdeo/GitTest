@@ -6,8 +6,8 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<link rel="stylesheet" href="/WEB-INF/resources/css/common.css">
-<script src="/WEB-INF/resources/JS/board.js"></script>
+<link rel="stylesheet" href="/resources/css/common.css">
+<script src="/resources/JS/board.js"></script>
 </head>
 <body>
 </body>

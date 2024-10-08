@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import kr.co.GitTest.board.model.BoardServiceImpl;
 
 @Controller
-@RequestMapping("/")
+@RequestMapping("/board")
 public class BoardController {
 	
 	@Autowired
@@ -15,8 +15,6 @@ public class BoardController {
 	
 	@RequestMapping("/board.do")
 	public String boardForm() {
-		
-		
 		
 		return "/board/boardList";
 	}

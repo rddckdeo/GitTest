@@ -12,7 +12,7 @@
 	<div>
 		<div>
 			hello
-			<a href="/board.do">board</a>
+			<a href="/board/board.do">board</a>
 		</div>
 	</div>
 

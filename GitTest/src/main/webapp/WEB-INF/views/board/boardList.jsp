@@ -9,7 +9,28 @@
 <%@ include file="/WEB-INF/views/common/head.jsp" %>
 
 </head>
-<body>
-	<div>hello board</div>
+<body class="body">
+	<h1>hello board</h1>
+	
+	<!-- board List -->
+	<div class="boardCommon">
+		<!-- head -->
+		<div class="boardHead">
+			<div class="boardHeadCh">No</div>
+			<div class="boardHeadCh">Title</div>
+			<div class="boardHeadCh">Date</div>
+			<div class="boardHeadCh">Writer</div>
+		</div>
+		<!-- list -->
+		<div class="boardBody">
+			<div>No</div>
+			<div>Title</div>
+			<div>Date</div>
+			<div>Writer</div>
+		</div>
+	</div>
+	
+	<a href="/">back home</a>
+	
 </body>
 </html>
