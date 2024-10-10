@@ -21,6 +21,7 @@
 			<div class="boardHeadCh">Date</div>
 			<div class="boardHeadCh">Writer</div>
 			<div class="boardHeadCh">Ace</div>
+			<div class="boardHeadCh">Tower</div>
 		</div>
 		<!-- list -->
 		<div class="boardBody">
@@ -29,6 +30,7 @@
 			<div>Date</div>
 			<div>Writer</div>
 			<div>Ace</div>
+			<div>Tower</div>
 		</div>
 	</div>
 	
