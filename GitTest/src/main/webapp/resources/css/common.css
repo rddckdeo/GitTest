@@ -26,6 +26,7 @@
 	text-align:center;
 	border-bottom: 1px solid black;
 	padding:0 0 10px 0;
+	margin:10px;
 }
 
 .boardHeadCh{
@@ -35,4 +36,98 @@
 .boardBody{
 	display:flex;
 	flex-direction:row;
+	text-align:center;
+	padding:10px;
+	border:1px solid black;
+	
+}
+
+.homeBody{
+	width:90%;
+	min-height:650px;
+	
+	display:flex;
+	justify-content:center;
+	align-items:center;
+	flex-direction:column;
+}
+
+
+.pageBody{
+	width:95%;
+	display:flex;
+	align-items:center;
+	margin:10px;
+	justify-content:center;
+}
+
+.pageIcon{
+	width:30px;
+	height:30px;
+	border:1px solid black;
+	border-radius:15px;
+	
+	margin:0 10px 0 10px;
+	cursor:pointer;
+	
+}
+
+.aTag{
+	padding:15px;
+	
+	width:200px;
+	height:25px;
+	text-align:center;
+	text-decoration:none;
+	color:red;
+	font-size:20px;
+	font-weight:900;
+}
+/* -------------------------- */
+.borderDefault{
+	border:1px solid black;
+}
+
+.allCenter{
+	display:flex;
+	justify-content:center;
+	align-items:center;
+}
+
+.alignCenter{
+	display:flex;
+	align-items:center;
+}
+
+.justifyCenter{
+	display:flex;
+	justify-content:center;
+}
+
+.positionPatent{
+	position:relative;
+}
+
+.positionChild{
+	position:absolute;
+}
+
+.bottom{
+	bottom:0;
+}
+
+.height80{
+	height:80%;
+}
+
+.height50{
+	height:50%;
+}
+
+.width90{
+	width:90%;
+}
+
+.width100{
+	width:100%;
 }
