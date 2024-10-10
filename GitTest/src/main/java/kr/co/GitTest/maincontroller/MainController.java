@@ -12,5 +12,12 @@ public class MainController {
 		
 		return "/board/boardList";
 	}
+	
+	public int add() {
+		
+		int s = 2;
+		
+		return s;
+	}
 
 }
