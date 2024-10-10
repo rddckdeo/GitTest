@@ -15,7 +15,7 @@ public class MainController {
 	
 	public int add() {
 		
-		int s = 1;
+		int s = 2;
 		
 		return s;
 	}
