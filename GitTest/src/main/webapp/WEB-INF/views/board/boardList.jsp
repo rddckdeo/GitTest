@@ -20,6 +20,7 @@
 			<div class="boardHeadCh">Title</div>
 			<div class="boardHeadCh">Date</div>
 			<div class="boardHeadCh">Writer</div>
+			<div class="boardHeadCh">Ace</div>
 		</div>
 		<!-- list -->
 		<div class="boardBody">
@@ -27,6 +28,7 @@
 			<div>Title</div>
 			<div>Date</div>
 			<div>Writer</div>
+			<div>Ace</div>
 		</div>
 	</div>
 	

@@ -11,7 +11,7 @@
 
 	<div>
 		<div>
-			hello
+			hello my name is kwangmin
 			<a href="/board/board.do">board</a>
 		</div>
 	</div>
